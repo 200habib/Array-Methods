@@ -1,0 +1,1 @@
+I wanted to replicate some predefined functions using algorithms to gain a deeper understanding of their underlying mechanisms and explore potential optimizations. By doing so, I aimed to improve my coding skills and enhance my problem-solving abilities.
